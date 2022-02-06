@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: 'Fajar Mukharom',
   domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  author: 'Fajar Mukharom',
 
   // open graph metadata (optional)
   description: 'Example site description',
